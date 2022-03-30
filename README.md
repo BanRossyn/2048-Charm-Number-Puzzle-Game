@@ -43,7 +43,7 @@ sart at zero, and increases by the value of the new tile each time two tiles mee
     ✪ High score and leaderboard for all board sizes.
     ✪ Always free with no purchase required official version  of the original puzzle game.
     
-    ![new graphics copy](https://user-images.githubusercontent.com/97843190/160886335-271766da-f77d-4bc6-8216-b592afa5e574.jpg)
+![new graphics copy](https://user-images.githubusercontent.com/97843190/160886335-271766da-f77d-4bc6-8216-b592afa5e574.jpg)
 
 # Game Details:
 
