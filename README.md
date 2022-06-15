@@ -50,7 +50,7 @@ Choose Different Exponents 2,3,4 and 5.
 
 
 
-# Board Size Rate the app:
+# Board Size:
 
  Square
  
