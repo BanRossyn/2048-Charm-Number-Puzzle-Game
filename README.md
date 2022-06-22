@@ -11,7 +11,8 @@
       <img src="https://user-images.githubusercontent.com/97843190/170808265-270075d7-678d-412b-aa04-65a7759438e2.png"  />
     </a>
   </p>
- # Brain Puzzle 2048 Game:
+  
+# Brain Puzzle 2048 Game:
 Super 2048 plus puzzle Keep playing for high score after collected 2048 tile Game is automatically saved and continue to play later.
 classic game play with silky smooth movements swipe to move Undo button to reverse a swipe detailed statistics including best scores.
 Very simple game yet insanely addictive! It will get harder overtime, meaning it will keep you glued to the screen as well.
@@ -112,6 +113,7 @@ Rated for 3+
       <img src="https://user-images.githubusercontent.com/97843190/170808265-270075d7-678d-412b-aa04-65a7759438e2.png"  />
     </a>
   </p>
+  
 # Rate the app:
 Please consider rating the app if you are satisfied with the product. Thank you.
 
