@@ -5,7 +5,7 @@
  Marge Tiles Brain Puzzle 2048 Game. Very simple game yet insanely addictive!
    <h1 align="Right">.java .xml .apk</h1>
 
-![graphics copy](https://user-images.githubusercontent.com/97843190/160885720-cb257901-50bc-4b44-94af-76f3bef554fc.jpg)
+![graphics copy](https://play-lh.googleusercontent.com/exSR4jzl3Leor9LhC7TpUD1DrVLplJwGhYJXSLo1wyJK4Dn_Qvf2dk4s4CNqky8QmmP_=w2560-h1440)
 
  # Brain Puzzle 2048 Game:
 Super 2048 plus puzzle Keep playing for high score after collected 2048 tile Game is automatically saved and continue to play later.
@@ -81,34 +81,28 @@ Please consider rating the app if you are satisfied with the product. Thank you.
 
  <p align="center">
     <a>
-      <img src="https://user-images.githubusercontent.com/97843190/160886031-63d2420b-ba87-4a9d-9c9e-66fabe0a275e.jpg" hight="400" width="200" />
+      <img src="https://play-lh.googleusercontent.com/QpZt_VL7TWy5sQRJSk3-VMpPIaehjPHdKuk8WX52hVZ-i4EKmSls6UB8-igyraeeuA=w2560-h1440" />
     </a>
- <a>
-      <img src="https://user-images.githubusercontent.com/97843190/160886050-861b53ae-006e-4d83-9157-49afd985957f.jpg" hight="400" width="200" />
-    </a>
-  <a>
-      <img src="https://user-images.githubusercontent.com/97843190/160886057-bb917322-a955-4fed-9096-0409ef6ecbf6.jpg" hight="400" width="200" />
+   <a>
+      <img src="https://play-lh.googleusercontent.com/4kfuxK3MPwIiVS0suzytnaAp-dTMfPVi_eu60cFKsTeaY78RI19EZeYa-ZjYT2Wteis=w2560-h1440" />
     </a>
      <a>
-      <img src="https://user-images.githubusercontent.com/97843190/160886082-00550e9f-b768-4fbe-bd11-5361561cefae.jpg" hight="400" width="200" />
+      <img src="https://play-lh.googleusercontent.com/TEa3VbrVFo14n3kiXQzCp_QLRrmU8uDBL1fPhhpst-uTup16sJRuRZgW3bAJweqbDw=w2560-h1440" />
     </a>
-  </p>
-
-
- <p align="center">
+     <a>
+      <img src="https://play-lh.googleusercontent.com/tTj45ZCGWGYKsuEeVtCQlOA2D328khIbpNMLMRcymelrZF5OfElZ0K_-UcUDa0sAtA=w2560-h1440" />
+    </a>
+     <a>
+      <img src="https://play-lh.googleusercontent.com/J_XmJegQiHxnEkxVu5Kd2C3-RKVj7fOCxO8tN4hKt82C_n76JRYGFMEOmOHXa5GNDQPO=w2560-h1440" />
+    </a>
     <a>
-      <img src="https://user-images.githubusercontent.com/97843190/160886065-8d25e030-b8b0-4240-92fa-91b601909119.jpg" hight="400" width="200" />
+      <img src="https://play-lh.googleusercontent.com/ezP0MIsnZGAzm87vSfdbWttRCqX2sndfwzWOVlbYbE1zHrH_3QDBQWpo0X8p2cTFGD4_=w2560-h1440" />
     </a>
- <a>
-      <img src="https://user-images.githubusercontent.com/97843190/160886047-6e5a2e06-9a93-4a97-95f3-a4b20a9b1128.jpg" hight="400" width="200" />
-    </a>
-  <a>
-      <img src="https://user-images.githubusercontent.com/97843190/160886074-84400c74-7c21-419b-b095-2846035c9d4f.jpg" hight="400" width="200" />
-    </a>
-  <a>
-      <img src="https://user-images.githubusercontent.com/97843190/160886087-c70fa2e0-fa16-4ebd-b3a7-d26c489ce108.jpg" hight="400" width="200" />
-    </a>
+    
   </p>
+
+
+
   
 
 
