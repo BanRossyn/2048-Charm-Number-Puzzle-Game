@@ -72,6 +72,7 @@ Choose Different Exponents 2,3,4 and 5.
       <img src="https://user-images.githubusercontent.com/97843190/170808265-270075d7-678d-412b-aa04-65a7759438e2.png"  />
     </a>
   </p>
+  
 # About
 When two tiles with the same number touch, they merge into one. When a 2048 tile is created, the player wins! 8 ., 16 ., 128 ., 1024 ., 2048.
 2048 is played on a plain 4×4 grid,consisting of numbered tiles that slide when a player moves them using the four arrow keys. On each turn, a new tile randomly appears on an empty spot on the board with a value of 2 or 4. The tiles slide as far as possible in the chosen direction until they are stopped by another tile or the edge of the grid.If two tiles of the same number collide while moving, they will merge into one tile with the total value of the two tiles colliding.The resulting tile cannot merge with any other tile in the same move again. High scoring tiles emit a soft glow; The highest possible tile is 131,072. If a move causes three consecutive tiles of the same value to move simultaneously, only the two tiles that are farthest in the direction of motion will combine. If all four spaces in a row or column are filled with tiles of the same value, a move parallel to that row/column will add the first two and the last two. A scoreboard in the top right keeps track of the user's score. The user's score
@@ -140,7 +141,18 @@ Please consider rating the app if you are satisfied with the product. Thank you.
 
 
 
-  
+  # License: 
+ ```
+  Copyright 2020 Rossyn
+  Licensed to the Apache Software Foundation (ASF) under one or more contributor license agreements. 
+  See the NOTICE file distributed with this work for additional information regarding copyright ownership. 
+  The ASF licenses this file to you under the Apache License, Version 2.0 (the "License"); 
+  you may not use this file except in compliance with the License. 
+  You may obtain a copy of the License at 
+  http://www.apache.org/licenses/LICENSE-2.0 
+  Unless required by applicable law or agreed to in writing, software distributed under 
+  the License is distributed on an "AS IS" BASIS, WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND,
+  either express or implied. See the License for the specific language governing permissions and limitations under the License." ```
 
 
 
